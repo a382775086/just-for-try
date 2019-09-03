@@ -1,2 +1,5 @@
 nothing
-localeSomething
+<<<<<<< HEAD
+=======
+remtoe Something
+>>>>>>> 9247392228e7c393d1a2665457083ea5e2142b64
